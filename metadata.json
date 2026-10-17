@@ -1,0 +1,6 @@
+{
+  "name": "Daily Focus - Android Lock Screen Live Wallpaper Studio",
+  "description": "Android Live Wallpaper generator, customization studio, and step-by-step Android Studio & Google Play Store publishing guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
